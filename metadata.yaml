@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '9695'
     url: http://www.gutenberg.org/2009/agents/9695
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25450#The-Rogue-ElephantThe-Boys-Big-Game-Series
 gutenberg_issued: '2008-05-12'
 gutenberg_type: Text
 identifiers:
